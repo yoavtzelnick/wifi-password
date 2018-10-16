@@ -27,7 +27,6 @@ You can pass several options to modify how `wifi-password` behaves
 
 ```bash
 wifi-password [-i <wifi-ssid>] 
-              [-a]
               [-v]
               [-h]
 ```
@@ -37,7 +36,6 @@ Here is the detail for each of the options
 | Option | Description |
 | --- | --- |
 | i | Specify the SSID of the network you want to get the password |
-| a | Get the list of all network with their passwords |
 | v | Output version of bash script |
 | h | Display the help screen |
 
