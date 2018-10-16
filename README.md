@@ -1,18 +1,10 @@
 # wifi-password
 
-> CLI utility to get wifi passowrd for mac, linux and windows.
+> CLI utility to get wifi passowrd for Mac, Linux and Windows.
 
 <br/>
 
 ![wifi-password](https://i.imgur.com/Ho5Qsob.png)
-
-## Supports
-
-Out of the box this bash cli supports the follwing operating systems:
-
-- Mac
-- Linux
-- Windows
 
 ## Install
 
@@ -47,7 +39,7 @@ Here is the detail for each of the options
 | Option | Description |
 | --- | --- |
 | i | Specify the SSID of the network you want to get the password |
-| v | Output version of bash script |
+| v | Outputs version of the utility |
 | h | Display the help screen |
 
 For the basic usage, all you have to do is run `wifi-password` inside your terminal.

@@ -1,7 +1,7 @@
 {
   "name": "wifi-password",
   "version": "0.0.1",
-  "description": "Get your wifi password.",
+  "description": "CLI utility to get wifi passowrd for Mac, Linux and Windows.",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
