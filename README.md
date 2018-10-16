@@ -1,6 +1,6 @@
 # wifi-password
 
-> CLI utility to get wifi passowrd for Mac, Linux and Windows.
+> CLI utility to get wifi password for Mac, Linux and Windows.
 
 <br/>
 
