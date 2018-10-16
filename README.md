@@ -2,6 +2,10 @@
 
 > CLI utility to get wifi passowrd for mac, linux and windows.
 
+<br/>
+
+![wifi-password](https://i.imgur.com/Ho5Qsob.png)
+
 ## Supports
 
 Out of the box this bash cli supports the follwing operating systems:
@@ -27,10 +31,6 @@ Simply run it inside your terminal and it will give you the output:
 ```bash
 wifi-password
 ```
-
-<br/>
-
-![wifi-password](https://i.imgur.com/Ho5Qsob.png)
 
 ## Options
 
