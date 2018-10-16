@@ -1,5 +1,5 @@
 {
-  "name": "wifi-password",
+  "name": "wifi-pass",
   "version": "0.0.1",
   "description": "CLI utility to get wifi passowrd for Mac, Linux and Windows.",
   "main": "",
