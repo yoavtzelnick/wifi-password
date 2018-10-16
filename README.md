@@ -2,6 +2,8 @@
 
 > Get password of your wifi using its ssid.
 
+![wifi-password](https://i.imgur.com/Ho5Qsob.png)
+
 ## Install
 
 You can install `wifi-password` using one of the options listed below
@@ -17,7 +19,7 @@ You can install `wifi-password` using one of the options listed below
 Simply run it inside your terminal and it will give you the output:
 
 ```bash
-wifi-password <wifi-ssid>
+wifi-password -i <wifi-ssid>
 ```
 
 ## Options
