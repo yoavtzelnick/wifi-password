@@ -10,8 +10,7 @@ You can install `wifi-password` using one of the options listed below
 | --- | --- |
 | curl | `curl -L https://raw.githubusercontent.com/ziishaned/wifi-password/master/installer.sh \| sudo sh` |
 | npm | `npm install -g wifi-password` |
-| brew | `brew update && brew install wifi-password` |
-| manual | Clone and run `make install` |  
+| manual | Clone and run `make install` |
 
 ## Usage
 
