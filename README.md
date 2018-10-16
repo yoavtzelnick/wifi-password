@@ -13,7 +13,7 @@ You can install `wifi-password` using one of the options listed below
 | Source | Command |
 | --- | --- |
 | curl | `curl -L https://raw.githubusercontent.com/ziishaned/wifi-password/master/installer.sh \| sudo sh` |
-| npm | `npm install -g wifi-password` |
+| npm | `npm install -g wifi-pass` |
 | manual | Clone and run `make install` |
 
 ## Usage
