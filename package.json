@@ -1,6 +1,6 @@
 {
   "name": "wifi-pass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI utility to get wifi password for Mac, Linux and Windows.",
   "main": "",
   "scripts": {
